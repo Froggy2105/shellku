@@ -1,2 +1,2 @@
-# shellku
-Perkumpulan List shell yang ada
+# shell2
+# shell2

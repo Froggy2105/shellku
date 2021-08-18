@@ -1,0 +1,146 @@
+<!-- Om ngapain om?:( -->
+
+<html>
+<head>
+
+<title>NASI GORENG TOK TOK TOK TOK DOORRRR HACKED BY Mr.Froggy</title>
+
+
+<link rel="icon" type="image/jpg" href="https://images2.imgbox.com/22/66/UxV86Fef_o.gif"> 
+
+<link rel="icon" type="image/x-icon" href="https://images2.imgbox.com/22/66/UxV86Fef_o.gif">
+
+<meta name="title" content="Hacked by Mr.Froggy">
+
+<meta name="description" content="Pwnd!!!">
+
+<meta name="keywords" content="Pwnd!!!">
+
+<meta name="googlebot" content="index,follow">
+
+<meta name="robots" content="all">
+	
+<meta name="robots schedule" content="auto">
+
+<meta name="distribution" content="global">
+	
+<meta contact="#">
+
+<!-- Styles -->
+
+<style>
+
+            html, body {
+
+                background-color: #000
+
+               ;
+               
+                height: 100vh;
+
+                margin: 0;
+
+            }
+
+            .full-height {
+
+                height: 100vh;
+
+            }
+
+            .flex-center {
+
+                align-items: center;
+
+                display: flex;
+
+                justify-content: center;
+
+            }
+
+            .position-ref {
+
+                position: relative;
+
+            }
+
+            .content {
+            	
+                text-align: center;
+
+            }
+
+            .title {
+
+                font-size: 36px;
+
+                padding: 20px;
+
+            }
+
+</style>
+
+</head>
+
+<body align="center" oncontextmenu="return false">
+
+<script type="text/javascript">
+
+</script>
+
+<div class="flex-center position-ref full-height">
+
+	<div class="content">
+
+		<div class="text">
+			<center>
+			</div>
+
+			<center><img src="https://archive-media-0.nyafuu.org/c/image/1472/83/1472832916313.png" height="350" width="350">
+
+			</iframe>
+
+			<br>
+
+			<br>
+
+			<code>
+				
+			<br>
+
+			<font color="white" size="5">
+
+			<b><font size="5">Hacked By</font> <font color="red">Mr.Froggy</font> ~ IndoSec
+
+			<br>
+				<br>
+				<font size="5"> no ingfo? ok no ingfo&#x1F494</font>
+<br>
+			<br>
+
+			<a href="?(~faturrochman3@hotmail.com~)"><font color="lime">Contact Me</a>
+
+			<br>
+				
+			<br>
+              <audio controls="controls" height="50px" width="100px">
+  <source src="remex.mp3" type="audio/mpeg" />
+  <source src="remex.ogg" type="audio/ogg" />
+<embed height="50px" width="100px" src="song.mp3" />
+</audio>
+
+			<br>
+				
+			<br><br> 
+				
+			</font>
+
+			<br>
+
+			<br>
+
+			<br>
+
+			</body>
+
+			</html>
